@@ -3,7 +3,7 @@
 
 I am a high school student developer with 3 years of experience.
 
-I started off learning the basics of Python, but have since then taken my skills towards HTML/CSS/JS and C#/.NET. 
+I started off learning the basics of Python, but have since then taken my skills towards Javascript and C#/.NET. 
 
 <h2>About Me 🤵</h2>
 
