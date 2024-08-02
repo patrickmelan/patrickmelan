@@ -18,7 +18,7 @@ I started off learning the basics of Python, but have since then taken my skills
     - Spending time with friends
 - 📱Social
         <a href="https://www.instagram.com/patr1ckmelan/"><img src="https://img.shields.io/badge/Instagram-lightgray?style=for-the-badge&logo=instagram"></img></a>
-        <a href="https://twitter.com/patrickmelann"><img src="https://img.shields.io/badge/Twitter/X-black?style=for-the-badge&logo=x"></img></a>
+        <a href="https://x.com/patrick_melan"><img src="https://img.shields.io/badge/Twitter/X-black?style=for-the-badge&logo=x"></img></a>
         <a href="https://www.linkedin.com/in/patrick-melan-723488244"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin"></img></a>
         
 <h2>Experience 🏗️</h2>
